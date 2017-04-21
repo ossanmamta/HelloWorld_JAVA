@@ -65,7 +65,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>C:\Users\vipul1.jain\Desktop\local-repo</url>
+         <url>D:\MAVEN</url>
        </repository>
    </distributionManagement>
    
